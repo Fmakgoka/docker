@@ -1,0 +1,1 @@
+@FOR /f "tokens=*" %i IN ('"C:\Users\FMakgoka\bin\docker-machine.exe" env Char') DO @%i
